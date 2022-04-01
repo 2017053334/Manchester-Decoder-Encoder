@@ -6,7 +6,7 @@ Design a  Manchester Decoder and Encoder
 
 The schematic of the `Manchester Code Decoder`  is shown as bellowed:
 
-![Manchester](https://github.com/2017053334/Manchester-Decoder-Encoder/blob/master/design%20report/picture/Manchester.png)
+![Manchester](https://github.com/2017053334/Manchester-Decoder-Encoder/blob/master/design%20report/picture/decoder_schematic.png)
 
 The waveform of the `Manchester Code Decoder`  is shown as bellowed:
 
