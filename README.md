@@ -6,11 +6,11 @@ Design a  Manchester Decoder and Encoder
 
 The schematic of the `Manchester Code Decoder`  is shown as bellowed:
 
-![Manchester](E:\DESKTOP\Manchester.png)
+![Manchester](https://github.com/2017053334/Manchester-Decoder-Encoder/blob/master/design%20report/picture/Manchester.png)
 
 The waveform of the `Manchester Code Decoder`  is shown as bellowed:
 
-<img src="E:\DESKTOP\waveform .png" alt="waveform " style="zoom:50%;" />
+<img src="https://github.com/2017053334/Manchester-Decoder-Encoder/blob/master/design%20report/picture/waveform .png" alt="waveform " style="zoom:50%;" />
 
 The Manchester bit value is presented in the first half of each bit time. Here we can generate a clock to capture the value at 1/4 bit time.
 
